@@ -1,5 +1,4 @@
 package ru.netology.javaqa;
-
-public class Main {
+public class MoviePoster {
 
 }
