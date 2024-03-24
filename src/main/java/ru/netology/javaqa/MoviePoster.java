@@ -34,7 +34,6 @@ public class MoviePoster {
         String[] result = new String[resultLength];
         for (int i = 0; i < resultLength; i++) {
             result[i] = movies[movies.length - 1 - i];
-
         }
         return result;
     }
